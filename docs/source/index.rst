@@ -14,6 +14,7 @@ Card recommend system based on consume pattern
    intro_project
    intro_collabolator
    how_to_use
+   install
   
 
 
