@@ -8,11 +8,12 @@ Welcome to CardDNA's documentation!
 Card recommend system based on consume pattern
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    intro_project
    intro_collabolator
+   How_to_use
   
 
 
