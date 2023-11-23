@@ -13,7 +13,7 @@ Card recommend system based on consume pattern
 
    intro_project
    intro_collabolator
-   How_to_use
+   how_to_use
   
 
 
