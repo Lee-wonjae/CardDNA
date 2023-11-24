@@ -1,7 +1,5 @@
 install
 ================================
-Package                            Version
----------------------------------- --------------------
 alabaster                          0.7.12
 anaconda-client                    1.9.0
 anaconda-navigator                 2.1.1
