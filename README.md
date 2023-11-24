@@ -1,10 +1,11 @@
 # CardDNA
 **This service distinguishes 16 customer branches through card company data. The classification is as follows:**
 
-
+|CardDNA|Explanation|
+|---|---|
 |HBMA|Health and Beauty|
 |FCNA|Family Eligibility|
-|ITMM|Innovative technologies and range of services|  
+|ITMM|Innovative technologies and range of services|
 |TDMM|Digital related technology field|
 |HBNE|habits, tourism, travel sector|
 |FDNA|Food-related field|
