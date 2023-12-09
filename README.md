@@ -35,8 +35,14 @@ The data used for this project is BC Card usage information provided by KT Telec
 
 # Python libaries to use in this project
 pandas version: 1.3.4
+
+
 numpy version: 1.20.3
+
+
 matplotlib version: 3.4.3
+
+
 sklearn version: 0.24.2
 
 
