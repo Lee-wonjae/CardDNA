@@ -34,9 +34,7 @@ The data used for this project is BC Card usage information provided by KT Telec
 **We provide card recommendations and card cover customization services tailored to each customer's pattern group.**
 
 # Python libaries to use in this project
-pandas version: 1.3.4
-
-
+pandas version: 1.3.4 <br>
 numpy version: 1.20.3
 
 
