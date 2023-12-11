@@ -11,7 +11,7 @@ Card recommend system based on consume pattern
    :maxdepth: 4
    :caption: Contents:
 
-   intro_project
+   Project_Introduction
    intro_collabolator
    how_to_use
    install
