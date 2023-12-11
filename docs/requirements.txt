@@ -1,2 +1,2 @@
-sphinx-rtd-theme
+sphinxawesome_theme == 5.0.0.
 recommonmark
