@@ -1,15 +1,15 @@
 Collabolator
 ================================
-WonJae Lee
+WonJae Lee :
  lwj0173@naver.com
 
-JiWoo Park
+JiWoo Park :
  Parkju0920@naver.com
 
-HaeYoon Nam
+HaeYoon Nam :
  Hynam2002@naver.com
 
-SeoJin Lee
+SeoJin Lee :
  Happy01l@naver.com
 
 
