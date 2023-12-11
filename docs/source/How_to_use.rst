@@ -16,6 +16,7 @@ Step5. Clone the GitHub Repository
 	git clone https://github.com/Lee-wonjae/CardDNA.git
 By following these steps, you can successfully clone a GitHub repository in Jupyter Notebook.
 
+
 < 2. Use Jupyter Notebook >
 
 step1. Run Jupyter NotebooK 
