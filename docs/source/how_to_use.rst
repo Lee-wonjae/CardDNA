@@ -1,6 +1,6 @@
 How_to_use
 ================================
-1. Use Colab
+< 1. Use Colab >
 
 step1. Run Colab
 	: Launch a Colab notebook and navigate to the desired directory.
@@ -16,7 +16,7 @@ Step5. Clone the GitHub Repository
 	git clone https://github.com/Lee-wonjae/CardDNA.git
 By following these steps, you can successfully clone a GitHub repository in Jupyter Notebook.
 
-2. Use Jupyter Notebook
+< 2. Use Jupyter Notebook >
 
 step1. Run Jupyter NotebooK 
 	: Start Jupyter Notebook and navigate to the desired directory.
