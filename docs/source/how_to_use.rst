@@ -1,6 +1,7 @@
 How_to_use
 ================================
 ① Use Colab
+
 step1. Run Colab
 	: Launch a Colab notebook and navigate to the desired directory.
 Step2. Check for Git Installation
@@ -17,6 +18,7 @@ Step5. Clone the GitHub Repository
 By following these steps, you can successfully clone a GitHub repository in Jupyter Notebook.
 
 ② Use Jupyter Notebook
+
 step1. Run Jupyter NotebooK 
 	: Start Jupyter Notebook and navigate to the desired directory.
 Step2. Check for Git Installation
