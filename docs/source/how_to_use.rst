@@ -2,14 +2,13 @@ How_to_use
 ================================
 ① Use Colab
 
-step1. Run Colab
+ step1. Run Colab
 	: Launch a Colab notebook and navigate to the desired directory.
 Step2. Check for Git Installation
 	: Typically, Git is already installed in Colab. However, if it's not, you can install it using the following command: !apt-get install -y git
 Step3. Mount Google Drive
 	: Mount Google Drive using the following code.
-	from google.colab import drive
-drive.mount('/content/drive')
+	from google.colab import drive drive.mount('/content/drive')
 Step4. Change to Working Directory:
 	: Move to the directory where you want to perform your work cd /content/drive/My Drive/
 Step5. Clone the GitHub Repository
