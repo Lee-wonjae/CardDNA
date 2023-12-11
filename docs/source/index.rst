@@ -12,9 +12,9 @@ Card recommend system based on consume pattern
    :caption: Contents:
 
    Project_Introduction
-   intro_collabolator
-   how_to_use
-   install
+   How_to_use
+   Collabolator
+   Install
   
 
 
