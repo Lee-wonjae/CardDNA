@@ -3,7 +3,7 @@ How_to_use
 < 1. Use Colab >
 
 step1. Run Colab
-	: Launch a Colab notebook and navigate to the desired directory.
+	: Launch a Colab notebook and navigate to the desired directory. 
 Step2. Check for Git Installation
 	: Typically, Git is already installed in Colab. However, if it's not, you can install it using the following command: 
 
