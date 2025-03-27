@@ -40,11 +40,6 @@ matplotlib version: 3.4.3 <br>
 sklearn version: 0.24.2 <br>
 
 
-# Role Allocation
-Lee wonjae : EDA and Preprocessing <br>
-Park jiwoo : Data Collection and EDA <br>
-Nam haeyoon : Model Building 1 <br>
-Lee seojin : Model BUilding 2 <br>
 
 [1] https://carddna.readthedocs.io/en/latest/
 
